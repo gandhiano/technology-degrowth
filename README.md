@@ -1,6 +1,6 @@
 
 # Digital technology and infrastructure for the post-growth times
-**A working draft for a book chapter on degrowth, available for collective extending**
+**A working draft of a book chapter for the German publication [Degrowth in Bewegung(en)](http://www.degrowth.de/de/degrowth-in-bewegungen/)**
 
 With the invention of the World-Wide-Web in 1989, the Internet has rapidly turned into part of everyday's life. It's presence is in many places of the world already unavoidable: even if you only use your old analog phone to communicate, your provider is most probably just converting that old analog signal into digital binary, and sending it through a chain of cables made of different materials and routers and servers controlled by different institutions and corporations.
 
@@ -64,10 +64,15 @@ Rushkoff and Vial might not even identify themselves as degrowthers. But we see 
 
 ## Literature
 
-* Hacking capitalism with capped returns
-* 
+* Vial, Joshua, 2016. [Hacking capitalism with capped returns](http://joshuavial.com/capped-returns)
+* Illich, Ivan, 1973. Deschooling Society. [Chapter 6: Learning Webs](http://www.preservenet.com/theory/Illich/Deschooling/chap6.html)
 
-## Media (Videos und Bilder)
+
+## Videos
+
+
+## Pictures
+
 
 
 ## Projects, organisations and networks
