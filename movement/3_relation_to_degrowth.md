@@ -1,5 +1,7 @@
 3. How do you see the relation between this movement and degrowth and how can or should this relation develop within the next years? How is the relation to other social movements? (Relation means e.g. similarities, differences, conflicts, alliances etc.)
 
+“What was intended by the term ‘socialist society’ we henceforth call autonomous society. An autonomous society implies autonomous individuals – and vice versa. Autonomous society, autonomous individuals: free society, free individuals. Freedom – But what is freedom? And what freedom? [É] What is at issue is not inner freedom, but effective, social, concrete freedom, namely, to mention one primary feature, the largest possible space for movement and activity the institution of society can ensure for the individual. This freedom can exist only as dimension and mode of the institution of society [É] A free society is a society in which power is actually exercised by the collectivity, but a collectivity in which all effectively participate in equality. And this equality of effective participation, as goal to attain, must not remain a purely formal rule; it must be insured, as much as possible, by actual institutions” (Castoriadis 1993, 317-318).
+
 // TODO: describe free software movement and hacker culture
 // TODO: questions raised on social organisation of decentralization (build on e.g. blockchain critiques)
 
