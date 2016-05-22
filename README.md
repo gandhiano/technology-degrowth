@@ -1,6 +1,6 @@
 
 # Digital technology and infrastructure for the post-growth times
-**A working draft of a book chapter for the German publication [Degrowth in Bewegung(en)](http://www.degrowth.de/de/degrowth-in-bewegungen/)**
+**A working draft for a hacker culture inspired perspective on degrowth*
 
 With the invention of the World-Wide-Web in 1989, the Internet has rapidly turned into part of everyday's life. It's presence is in many places of the world already unavoidable: even if you only use your old analog phone to communicate, your provider is most probably just converting that old analog signal into digital binary, and sending it through a chain of cables made of different materials and routers and servers controlled by different institutions and corporations.
 
@@ -36,6 +36,9 @@ These dimensions of democracy and justice have been subjected to strong debate a
 
 Collective ownership of technical infrastructures and data, interoperability, linked open data (LOD), and the semantic web with its vocabularies and ontologies are some words that are expected to appear more and more in the discourses engaged in building up postgrowth futures. As Silke Helfrich mentioned at the recent international solidarity economy congress (Solikon) in Berlin, "if you control the infrastructures of production, you don't need certification". It is hard to imagine that Ivan Illich would not feel excited about the convivial, deschooling and deinstitutionalization potential of the world wide web and an underlying commons infrastructure.
 
+// TODO: Blockchain critique and how degrowth could contribute to the debate on the structure of social organisations and its relationship to technology, http://wiki.p2pfoundation.net/Blockchain#The_key_questions_about_the_blockchain ; https://english.lasindias.com/blockchain-is-a-threat-to-the-distributed-future-of-the-internet
+> 1. Ethereum and similar blockchain enabled systems may distribute the verification of the ledger, but they are still centralised systems that easily become controlled by a few big players with more infrastructure resources. The contracts and transaction ledger may be decentralised, but the infrastructure isn't.
+> 2. Decentralisation in and of itself will not lead to P2P principles, or more social justice. In face, it has just as much power to great exacerbate social inequality. The most likely outcome of widespread adoption of block-chain enabled decentralised technologies is simply increased efficiency and wealth for big banks and governments. The discourse around the blockchain does not seem to acknowledge this. This WILL be co-opted (already is).
 
 ## "Proudly invented elsewhere"
 
