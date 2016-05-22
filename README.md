@@ -2,6 +2,8 @@
 # Digital technology and infrastructure for the post-growth times
 **A working draft for a hacker culture inspired perspective on degrowth*
 
+NOTE: this branch is about getting the text for the book chapter of Degrowth in Bewegung(en) (Degrowth in movement(s)). Please make contributions and editions directly on the questions, inside the movements/ folder 
+
 With the invention of the World-Wide-Web in 1989, the Internet has rapidly turned into part of everyday's life. It's presence is in many places of the world already unavoidable: even if you only use your old analog phone to communicate, your provider is most probably just converting that old analog signal into digital binary, and sending it through a chain of cables made of different materials and routers and servers controlled by different institutions and corporations.
 
 Within the degrowth movement, technology, and especially digital technology, is seen by many as something to reduce or remove as much as possible from life and society. The Internet is, under this narrative, seen as a contradiction to a simple, ecological and convivial living. Certainly, increased resource use, both associated with the production of artifacts of modern technology, but also to potential rebound effects emerging from the increase of efficiency are feared and criticized - and not without reason: modern technological advances are mostly resulting from and used as tools for further optimization and efficiency of operations, industrial advancement and ultimately growth. 
