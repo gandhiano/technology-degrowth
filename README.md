@@ -93,6 +93,7 @@ Rushkoff and Vial might not even identify themselves as degrowthers. But we see 
 
 ## Videos
 
+* [Freedom in the cloud - Eben Moglen - 2010](http://isoc-ny.org/1338)
 
 ## Pictures
 
@@ -104,5 +105,5 @@ A few example projects with relevance to the challenges addressed by the degrowt
 
 * A subjective list of "[nice hosting providers](https://github.com/indiehosters/nice-hosting-providers)"
 * The [Enspiral network](http://www.enspiral.com/about/), behind the Loomio decision-making software
-* 
+* [Open Source Circular Economy Days is an open, distributed and globally connected event.](https://oscedays.org/)
 
