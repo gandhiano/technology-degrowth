@@ -4,7 +4,14 @@ The key idea behind the free software movement is to give the ability to the use
 
 In contrast to proprietary software, which maps to an industrial competition environment protected by patent systems, the philosophy of free software focuses on removing any restrictions from the use and modifications of software, which are an obstacle to cooperation between peers. It aims in that way at promoting the progress of technology with the goal "to liberate everyone in cyberspace" (Stallman, 2006).
 
+At this point, an important clarification and distinction between the terms open source and free software should be made. Although often used interchangely and to a large point overlapping, free/libre (libre is often coupled in order to denote the fact that it means free as in freedom of speech, rather than free beer). Open source software licenses may put restrictions on the (re)use of software that are considered not to be free/libre software. 
+
+In order to overcome the debate, the term free/libre open source software has been proposed. Nevertheless, it is the free software movement which appears as strongly politicized and closer to degrowth. As a contributor at the Chaos Communications Congress (the biggest hackers congress in Europe happening yearly in Germany) argued, that the concept of open source was pushed forward in order to include the emerging expansion of free software "into the neo-liberal ideology and the capitalist economy" (https://events.ccc.de/congress/2007/Fahrplan/attachments/967_24c3.HackingIdeologies.OpenSource.a.capitalist.movement.pdf)
+
+The free software movement is itself embedded in the own philosophy of the web. Up to 1996, the internet was mostly a place for sharing knowledge and establishing communication, away from commercial interests. A commercial usage of the internet was in fact not possible until 1996.
+
 // TODO: describe history and philosophy of the web (#5)
+> Hypertext is the underlying concept defining the structure of the World Wide Web,[2] with pages often written in the Hypertext Markup Language (HTML). It enables an easy-to-use and flexible connection and sharing of information over the Internet.
 
 Today we observe the emergence of new patterns of production and consumption of technology. Social-technological innovations, rather than pure technological innovations, seem to be the dominant pattern of innovation. Code development and recombination "factories", such as the famous GitHub, have become social networks for a global sharing of digital production. At the hardware level, FabLabs, Repair Cafés or Open Source Ecology are sharing their knowledge globally, based on their accumulated experiences while articulating production and learning with their local communities (of practice).
 
