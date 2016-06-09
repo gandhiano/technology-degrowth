@@ -1,6 +1,9 @@
 2. Who is part of the movement, who are its protagonists, what do they do and why (social stratification, how and where are they organized; which groups, which alliances etc. are there; what are the strategies...)?
 
-// TODO:  Relevant collectives and organisations in the free software movement #8 
+// TODO:  Relevant collectives and organisations in the free software movement #8
+
+
+The W3C is a membership-based institution defining the standards for the web. It is structured into multiple working groups, which are generally open for contributors to join.  The W3C aims at developing common protocols that promote the evolution of the world wide web and ensure its interoperability.
 
 With the source code and collective dynamics brought by the free software movement, the Wikipedia managed to bring the Encyclopedia Britannica out of business in a matter few years. Another example of such a convergence of global efforts is the Linux Kernel: the 10,239 lines of code originally released by the Finnish student Linus Torvalds in 1991, turn to over 18 million lines of source code protected as a commons by the GNU Public License. Its' success has been so immense that most of the internet, as well as a huge number consumer devices - from Android smartphones, to TomTom GPS - are built on top of the Linux Kernel. And because of the GPL Public License constraints, any piece of software built on top of it must also make their source code available. As a consequence, activity around GPL'd source code, be it non-profit or for profit, brings a contribution back to the global commons of source code and algorithms.
 
