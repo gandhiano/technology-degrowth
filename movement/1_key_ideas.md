@@ -10,7 +10,6 @@ In order to overcome the debate, the term free/libre open source software has be
 
 The free software movement is itself embedded in the own philosophy of the web. Up to 1996, the internet was mostly a place for sharing knowledge and establishing communication, away from commercial interests. A commercial usage of the internet was in fact not possible until 1996.
 
-// TODO: describe history and philosophy of the web (#5)
 > Hypertext is the underlying concept defining the structure of the World Wide Web,[2] with pages often written in the Hypertext Markup Language (HTML). It enables an easy-to-use and flexible connection and sharing of information over the Internet.
 
 Today we observe the emergence of new patterns of production and consumption of technology. Social-technological innovations, rather than pure technological innovations, seem to be the dominant pattern of innovation. Code development and recombination "factories", such as the famous GitHub, have become social networks for a global sharing of digital production. At the hardware level, FabLabs, Repair Cafés or Open Source Ecology are sharing their knowledge globally, based on their accumulated experiences while articulating production and learning with their local communities (of practice).
