@@ -1,8 +1,7 @@
 1. What is the key idea of the social movement (most important critiques of the current system, central arguments, ideas for alternatives), how did the movement develop historically and what is the idea of societal change?
 
 
-Software ist heutzutage ein Grundbestandteil von nahezu jedem elektronischen Gerät, was wir nutzen. Die Idee hinter der freien Software Bewegung ist es den Nutzern von Software die Möglichkeit zu geben die Programme zu betreiben, zu überprüfen, zu verändern und schließlich weiter zu geben.
-Die freie Software Bewegung tauchte offiziell in den 80er Jahren als Reaktion auf die stetig wachsende Vorreiterrolle proprietärer Software auf. Diese entstanden Ende der 60er Jahre mit den steigenden Produktionskosten aufgrund komplexer werdender Software-Programme.
+Software ist heutzutage ein Grundbestandteil von nahezu jedem elektronischen Gerät was wir nutzen. Die Idee hinter der freien Software Bewegung ist es den NutzerInnen der Software die Möglichkeit zu geben die Programme zu betreiben, überprüfen, verändern und schließlich weiter zu geben. Die freie Software Bewegung kam offiziell erstmals in den 80er Jahren zum Vorschein, als Reaktion auf die stetig wachsende Vorreiterrolle proprietärer Software. Diese Vorreiterrolle etablierte sich durch die seit Ende der 60er Jahre immer komplexer werdender Software-Programme und die damit steigenden Produktionskosten.
 
 Proprietäre Software ist für das Umfeld industrieller Konkurrenz ausgerichtet indem sie von Patent-Systemen geschützt wird. Ziel der freien Software ist es im Gegensatz dazu, jegliche Einschränkung aufzuheben, was die Nutzung und Veränderung der Software betrifft, um Kooperation untereinander zu ermöglichen. Damit soll der technologische Fortschritt vorangebracht werden mit dem Ziel jedermann im Cyberspace zu befreien (Stallman, 2006).
 //den letzten Satz würde ich weglassen.
