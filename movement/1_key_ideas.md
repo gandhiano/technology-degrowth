@@ -1,6 +1,11 @@
 1. What is the key idea of the social movement (most important critiques of the current system, central arguments, ideas for alternatives), how did the movement develop historically and what is the idea of societal change?
 
-The key idea behind the free software movement is to give the ability to the users of software - which is present in basically any electronic devices we use today - to have freedom to run, study and change the software, and to redistribute it in any way. The free software movement appears officially in the 1980's, as a reaction to the increasing dominance of proprietary software (which started emerging in the late 60s, with the increasing production costs of ever more complex software).
+
+Heutzutage ist Software ein Grundbestandteil in nahezu jedem elektronischen Gerät, was wir nutzen. Die Grundidee der freien Software Bewegung ist den Nutzern von Software die Möglichkeit zu geben, die Programme zu nutzen, zu überprüfen, zu verändern und weiter zu geben.
+
+The free software movement appears officially in the 1980's, as a reaction to the increasing dominance of proprietary software (which started emerging in the late 60s, with the increasing production costs of ever more complex software).
+
+Die freie Software Bewegung trat offiziell in den 80er Jahren hervor als Reaktion auf die stetig wachsende Vorreiterrolle Rolle proprietärer Software, die Ende der späten 60er Jahre mit den steigenden Produktionskosten aufgrund komplexer werdender Software-Programme aufkam.
 
 In contrast to proprietary software, which maps to an industrial competition environment protected by patent systems, the philosophy of free software focuses on removing any restrictions from the use and modifications of software, which are an obstacle to cooperation between peers. It aims in that way at promoting the progress of technology with the goal "to liberate everyone in cyberspace" (Stallman, 2006).
 
