@@ -1,4 +1,4 @@
-2. Who is part of the movement, who are its protagonists, what do they do and why (social stratification, how and where are they organized; which groups, which alliances etc. are there; what are the strategies...)?
+2. Who is part of the movement, who are its protagonists, what do they do and why (social stratification, how and where are they organized; which groups, which alliances etc. are there; what are the strategies...)? 
 
 It is difficult to describe who is part of a movement that is so diffuse and embedded at different levels across other movements. Nevertheless, a few key figures and institutions are worth mentioning.
 
@@ -6,7 +6,7 @@ Richard Stallman, the GNU Project and the Free Software Foundation (FSF) are pro
 
 The release of the Linux kernel under a GNU Public License in 1992, provided the missing piece to the operating system. The Linux kernel provides an amazingly successful example of convergence of global efforts: the 10,239 lines of code of the Linux Kernel, originally released by the Finnish student Linus Torvalds in 1991, turn to over 18 million lines of source code protected as a commons by the GNU Public License. Its' success has been so immense that most of the internet, as well as a huge number consumer devices - from Android smartphones, to TomTom GPS - are built on top of the Linux Kernel. And because of the GPL Public License constraints, any piece of software built on top of it must also make their source code available. As a consequence, activity around GPL'd source code, be it non-profit or for profit, brings a contribution back to the global commons of source code and algorithms.
 
-On the web, the W3C is a membership-based institution defining the standards for the web, while also promoting convergence of visions on what the web should look like. It is structured into multiple working groups, which are generally open for contributors to join.  The W3C aims at developing common protocols that promote the evolution of the world wide web and ensure its interoperability.
+On the web, the W3C is a membership-based institution defining the standards for the web, while also promoting convergence of visions on what the web should look like. It is structured into multiple working groups, which are generally open for contributors to join. The W3C aims at developing common protocols that promote the evolution of the world wide web and ensure its interoperability.
 
 The dynamics and new cultures of collaboration brought by the free software movement extend also beyond software itself. With the source code and collective dynamics brought by the free software movement, the Wikipedia managed to bring the Encyclopedia Britannica out of business in a matter few years.
 
