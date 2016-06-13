@@ -1,10 +1,10 @@
 1. What is the key idea of the social movement (most important critiques of the current system, central arguments, ideas for alternatives), how did the movement develop historically and what is the idea of societal change?
 
 
-Heutzutage ist Software ein Grundbestandteil von nahezu jedem elektronischen Gerät, was wir nutzen. Die Grundidee der freien Software Bewegung ist den Nutzern von Software die Möglichkeit zu geben die Programme zu betreiben, zu überprüfen, zu verändern und schließlich weiter zu geben.
-Die freie Software Bewegung kam offiziell in den 80er Jahren als Reaktion auf die stetig wachsende Vorreiterrolle proprietärer Software auf, die Enrde der späten 60er Jahre mit den steigenden Produktionskosten aufgrund komplexer werdender Software-Programme aufkam.
+Software ist heutzutage ein Grundbestandteil von nahezu jedem elektronischen Gerät, was wir nutzen. Die Idee hinter der freien Software Bewegung ist es den Nutzern von Software die Möglichkeit zu geben die Programme zu betreiben, zu überprüfen, zu verändern und schließlich weiter zu geben.
+Die freie Software Bewegung tauchte offiziell in den 80er Jahren als Reaktion auf die stetig wachsende Vorreiterrolle proprietärer Software auf. Diese entstanden Ende der 60er Jahre mit den steigenden Produktionskosten aufgrund komplexer werdender Software-Programme.
 
-Proprietäre Software ist für das Umfeld industrieller Konkurrenz ausgerichtet und konzipiert und durch Patent-Systeme geschützt. Ziel der freien Software ist es im Gegensatz hierzu, jegliche Einschränkung von der Nutzung und 
+Proprietäre Software ist für das Umfeld industrieller Konkurrenz ausgerichtet, indem sie von Patent-Systemen geschützt wird. Ziel der freien Software ist es im Gegensatz hierzu, jegliche Einschränkung der Nutzung und Veränderung der Software
 
 In contrast to proprietary software, which maps to an industrial competition environment protected by patent systems, the philosophy of free software focuses on removing any restrictions from the use and modifications of software, which are an obstacle to cooperation between peers. It aims in that way at promoting the progress of technology with the goal "to liberate everyone in cyberspace" (Stallman, 2006).
 
