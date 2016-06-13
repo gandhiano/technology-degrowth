@@ -4,9 +4,9 @@
 Software ist heutzutage ein Grundbestandteil von nahezu jedem elektronischen Gerät, was wir nutzen. Die Idee hinter der freien Software Bewegung ist es den Nutzern von Software die Möglichkeit zu geben die Programme zu betreiben, zu überprüfen, zu verändern und schließlich weiter zu geben.
 Die freie Software Bewegung tauchte offiziell in den 80er Jahren als Reaktion auf die stetig wachsende Vorreiterrolle proprietärer Software auf. Diese entstanden Ende der 60er Jahre mit den steigenden Produktionskosten aufgrund komplexer werdender Software-Programme.
 
-Proprietäre Software ist für das Umfeld industrieller Konkurrenz ausgerichtet, indem sie von Patent-Systemen geschützt wird. Ziel der freien Software ist es im Gegensatz hierzu, jegliche Einschränkung der Nutzung und Veränderung der Software
+Proprietäre Software ist für das Umfeld industrieller Konkurrenz ausgerichtet indem sie von Patent-Systemen geschützt wird. Ziel der freien Software ist es im Gegensatz hierzu, jegliche Einschränkung aufzuheben, was die Nutzung und Veränderung der Software betrifft, um Kooperation untereinander zu ermöglichen. Damit soll der technologische Fortschritt mit dem Ziel jedermann im Cyberspace zu befreien (Stallman, 2006) vorangebracht werden.
 
-In contrast to proprietary software, which maps to an industrial competition environment protected by patent systems, the philosophy of free software focuses on removing any restrictions from the use and modifications of software, which are an obstacle to cooperation between peers. It aims in that way at promoting the progress of technology with the goal "to liberate everyone in cyberspace" (Stallman, 2006).
+
 
 At this point, an important clarification and distinction between the terms open source and free software should be made. Although often used interchangely and to a large point overlapping, free/libre (libre is often coupled in order to denote the fact that it means free as in freedom of speech, rather than free beer). Open source software licenses may put restrictions on the (re)use of software that are considered not to be free/libre software. 
 
