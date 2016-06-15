@@ -22,19 +22,7 @@ Up to now, research and praxis on degrowth has unfortunately brought too little 
 
 Bis jetzt hat die Forschung und Praxis über Degrowth leider zu wenig dazu beigetragen, eine kohärente, kritische Vision zu  über verschiedene Innovationen und Bewegungen formulieren, die in der digitalen Technologie-Szene entstehen. Im Gegenteil  distanzieren sich die Akteure der Degrowth-Bewegung oft von der Teilnahme an den technologischen und kulturellen Entwicklungen des digitalen Zeitalters - als stünde das Eintauchen darin und die Beschäftigung damit im Widerspruch zu einem Sinn des Lebens, welcher in freiwilliger Einfachheit und dem Einklang mit der Natur gründet.
 
-Es stimmt, dass auf Ressourcenebene, die Technologie des digitalen Zeitalters haben einen großen ökologischen und sozialen Tribut. Initiativen wie das Fairphone oder der Messe Maus nur zeigen, wie schwierig es ist, zu erreichen, tatsächlich um eine faire und ökologische Produktion von Dingen, wie "einfach" wie eine Maus für den Computer. Aber wie weit sind Konzepte wie die (vollständig) automatisierte Produktion, Smart Cities, cryptocurrencies, das Internet der Dinge oder große Datenmengen von einem Teil degrowth Utopien bilden? Was müssen wir tun, wie wir brauchen, sie zu gestalten, so dass sie in Richtung einer radikalen Verteilung beitragen, und nicht auf die Förderung des Kapitalismus Kumulation und Steigerung der gesellschaftlichen Abhängigkeit von Dienstleistungen, die von Unternehmen zur Verfügung gestellt? Wie können Akteure und Institutionen im Zusammenhang mit (nicht) in Bezug erreicht Degrowth Kontrolle über die Technologie des Erhaltens sie nutzen?
+In der Tat hat die Technologie des digitalen Zeitalters bei alleiniger Betrachtung auf den Ressourcen einen hohen ökologischen und sozialen Preis. Alleine Initiativen wie das Fairphone oder die faire Maus zeigen, wie schwierig es ist, eine tatsächlich faire und ökologische Produktion von Dingen durchzusetzen, die sogar so "einfach" sind wie eine Computer Maus. Aber wie weit sind Konzepte wie die (vollständig) automatisierte Produktion, Smart Cities, Cryptocurrencies, das Internet der Dinge oder großen Datenmengen davon entfernt ein Teil von Degrowth Utopien zu werden? Was müssen wir tun, wie müssen wir sie ausgestalten, sodass sie zu einer radikalen Verteilung beitragen, und weder das Anhäufen von Kapital fördern, noch die gesellschaftliche Abhängigkeit von Dienstleistungen erhöht, die von Unternehmen zur Verfügung gestellt werden? Wie können Akteure und Institutionen im Zusammenhang mit (nicht) in Bezug erreicht Degrowth Kontrolle über die Technologie des Erhaltens sie nutzen?
 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-It is true that at the resource level, the technology of the digital age have an huge environmental and social toll. Initiatives such as the fairphone or the fair mouse just reveal how difficult it is to actually achieve a fair and ecological production of things as "simple" as a mouse for the computer. But how far are concepts such as the (fully) automated production, smart cities, cryptocurrencies, the internet of things or big data from forming part of degrowth utopias? What do we need to do, how do we need to shape them, so that they contribute towards a radical distribution, rather than to the furthering of capitalism accummulation and increase of societal dependency on services provided by corporations? How can actors and institutions related to degrowth (not) achieved in terms of getting control over the technology they use? 
+ How can actors and institutions related to degrowth (not) achieved in terms of getting control over the technology they use? 
+ //Satz verstehe ich nicht
