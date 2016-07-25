@@ -1,6 +1,6 @@
 2. Who is part of the movement, who are its protagonists, what do they do and why (social stratification, how and where are they organized; which groups, which alliances etc. are there; what are the strategies...)?
 
-Es ist schwierig zu beschreiben wer Teil einer Bewegung ist, die so diffus und auf verschiedenen Ebenen in andere Bewegungen eingebettet ist. Nichtsdestotrotz sind es einige Schlüsselpersonen und -institutionen wert, genannt zu werden.
+Es ist schwierig zu beschreiben wer Teil einer Bewegung ist, die so diffus und auf verschiedenen Ebenen in andere Bewegungen eingebettet ist. Nichtsdestotrotz sind es einige Schlüsselpersonen und -institutionen wert genannt zu werden.
 
 Richard Stallman, das GNU Projekt und die Free Software Foundation (FSF) sind wahrscheinlich einige der wichtigsten Akteure in der Entstehungsgeschichte von Freier Software als Bewegung. Das GNU Projekt wurde von Stallman 1983 am MIT begründet. Es ging darum, Werkzeuge zu entwickeln, um ein Betriebssystem aus auschließlich freier Software zu bauen. 1992 war der einzige fehlende Teil zu einem vollständigen Betriebssystem der *Kernel*.
 
@@ -10,7 +10,7 @@ Im Netz stellt das W3C ( was ist das denn bitte? irgendwie fehlt hier was, ein i
 
 Die Dynamik und neuen Kulturen der Zusammenarbeit, die durch die Freie Software Bewegung entstanden sind, gehen weit über die Software selbst hinaus. Mit den Quellcodes und der gemeinschaftlichen Dynamik, die die Bewegung mitgebracht hat, hat es Wikipedia zum Beispiel in kürzester Zeit geschafft, die britische Enzyklopädie vom Markt zu drängen.
 
-Gemeinschafts- und Nachbarschaftliche Netzwerke, die von WLAN (Open Source), wie in der Freifunk Initiaitive unterstützt werden, tragen zu einer Graswurzelbewegung von "Mesh Netzwerken" bei, genauso wie sie einen direkten Beitrag leisten, die Besitzverhältnisse der Internet-Infrastuktur besser zu verteilen. Die geringen Kosten des "Rasperry Pi" ( was ist das?) und anderen "smart devices" (Übersetzung!) helfen, wenn die "Freedom Bos Software" installiert ist, eine "Own Cloud" ( Was ist das?) und einen Server zu betreiben, was weniger als 30 Euro kostet, ungefähr 10 Watt verbraucht und in eine Handfläche passt. 
+Gemeinschafts- und Nachbarschaftliche Netzwerke, die von WLAN (Open Source), wie in der Freifunk Initiaitive unterstützt werden, tragen zu einer Graswurzelbewegung von "Mesh Netzwerken" bei, genauso wie sie einen direkten Beitrag leisten, die Besitzverhältnisse der Internet-Infrastuktur besser zu verteilen. Die geringen Kosten des "Rasperry Pi" ( was ist das?) und anderen "smart devices" (Übersetzung!) helfen, wenn die "Freedom Bos Software" installiert ist, eine "Own Cloud" ( Was ist das?) und einen Server zu betreiben, was weniger als 30 Euro kostet, ungefähr 10 Watt verbraucht und in eine Handfläche passt.
 
 A growing number of collectives are working on recombining and further developing the existing free software into stacks that provide a more democratic access to services, shaped to needs and uses of the target communities. For example the  aims at providing "a people-focused alternative to the ‘corporate web’".
 
