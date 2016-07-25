@@ -27,6 +27,4 @@ Als Alternative skizziert Illich ein dezentrales Lernmodell: ein Netzwerk von To
 
 Bis jetzt hat die Forschung und Praxis über Degrowth leider zu wenig dazu beigetragen eine kohärente, kritische Vision über verschiedene Innovationen und Bewegungen zu formulieren, die durch die digitalen Technologien entstehen. Im Gegenteil distanzieren sich die Akteure der Degrowth Bewegung oft von der Teilnahme an den technologischen und kulturellen Entwicklungen des digitalen Zeitalters - als stünde das Eintauchen und die Beschäftigung mit dergleichen in einem Widerspruch zu einem Leben, welches Sinn durch freiwillige Selbstbeschränkung und das Leben im Einklang mit der Natur bekommt.
 
-In der Tat hat die Technologie des digitalen Zeitalters bei alleiniger Betrachtung des Ressourcenverbrauchs einen hohen ökologischen und sozialen Preis. Alleine Initiativen wie das Fairphone oder die faire Maus zeigen, wie schwierig es ist, eine tatsächlich faire und ökologische Produktion von Dingen durchzusetzen, die sogar so "einfach" sind wie eine Computer Maus.
-// Wiederholung
-Aber wie weit sind die Ideen der Freien Software und des World Wide Webs von den Grundsätzen der Degrowth Bewegung entfernt? von Degrowth? // Bitte überprüfen
+In der Tat hat die Technologie des digitalen Zeitalters bei alleiniger Betrachtung des Ressourcenverbrauchs einen hohen ökologischen und sozialen Preis.
