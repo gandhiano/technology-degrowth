@@ -10,6 +10,9 @@
 * Stallman, Richard, 2006. "Stallman interviewed by Sean Daly". Groklaw. 2006-06-23. URL: http://www.groklaw.net/article.php?story=20060625001523547
 * Vetter, Andrea, und Best, Benjamin, 2015. "Konvivialität und Degrowth : zur Rolle von Technologie in der Gesellschaft". Bielefeld. URL: https://epub.wupperinst.org/frontdoor/index/index/docId/6082
 
+# Abbildungen
+
+* Diewald, Nils, 2012. "Decentralized Online Social Networks". In: "Handbook of Technical Communication, Handbook of Applied Linguistics" 8 (HAL 8), Hrsg. Mehler, Alexander und Romary, Laurent. Berlin/Boston. S. 461-505. URL: http://www.nils-diewald.de/dsn-chapter.html
 
 # Weitere Quellen
 

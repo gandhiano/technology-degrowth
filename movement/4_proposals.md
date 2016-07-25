@@ -18,7 +18,7 @@ Unterstützer der Dezentralisation, wie z.B. der kollaborative Ansatz welcher vo
 (Brock 2016)
 
 ![Nils Diewald (2012): Decentralized Online Social Networks, In: Handbook of Technical Communication, Handbook of Applied Linguistics 8 (HAL 8), Alexander Mehler and Laurent Romary (Eds), Mouton de Gruyter, Berlin/Boston, p. 461-505.](dsn-cent-decent-distr-federated.svg)
-
+Abbildung: Dezentralisierte, soziale Onlinenetzwerke (Diewald, 2012)
 
 Es ist aus der Debatte ersichtlich, dass die Konfiguration solcher neuer Prozesse und Rollen, im engen Zusammenhang damit steht, wie das institutionelle Setting auf sozialen und technologischen Level ausgeformt ist. Die intellektuellen Debatten aus der Degrowth Bewegung rund um Demokratie, Autonomie, Institutionen und Technology können sicher wertvolle Einsichten in die Kontroversen liefern, die es braucht um die Typologie zu verstetigen, die es zum Netzwerkaufbau braucht. Sowohl auf technologischer, als auch auf sozialer/instutionellem Level) Sollten wir verteilte Netzwerke unterstützten, wo jeder akteuer autonom ist und die Regeln eher von globaler und automatisierter Natur sind? ( (through distributed public ledgers such as the *blockchain* developed as part of the infamous *bitcoin* cryptocurrency) (oh gott was ist das?!? und wie soll das übersetzte werden?), oder sollten wir eher Communities mithilfe einer passenden Infrakstruktur miteinander verbinden, die nach lokaleren Regeln funktionieren und dort angesiedelte Institutionen abbilden sollte?
 
