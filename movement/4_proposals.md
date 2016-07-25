@@ -14,7 +14,7 @@ Während verteilte Technologie interessante Perspektiven eröffnet, stellen sich
 
 Unterstützer der Dezentralisation, wie z.B. der kollaborative Ansatz welcher vom *IndieWeb* praktiziert wird, verteidigen einen verteilten, sozialen Prozess gegenüber anforderungsreichen, technischen Konsens und fokussieren sich mehr auf die Schaffenskraft der Beteiligten als auf einer Automatisation aller Transaktionen. Der Mehraufwand, der in verteilten Systemen auf globaler Ebene Übereinkunft erzeugt, wird als Nonsens angesehen:
 
-> "System werden sich niemals anpassen, wenn du nach einem globalen Konsens für lokale Aktionen fragst, die von unabhängigen Akteueren gemacht werden sollen. Zum Beispiel sollte ich nicht wissen müssen, wo jeder einzelne Dollar sich gerade in der Ökonomie befindet, wenn ich einfach etwas von dir kaufen will"
+> "System werden sich niemals anpassen, wenn du nach einem globalen Konsens für lokale Aktionen fragst, die von unabhängigen Akteueren gemacht werden sollen. Zum Beispiel sollte ich nicht wissen müssen, wo jeder einzelne Dollar sich gerade in der Ökonomie befindet, wenn ich einfach etwas von dir kaufen will."
 (Brock 2016)
 
 ![Nils Diewald (2012): Decentralized Online Social Networks, In: Handbook of Technical Communication, Handbook of Applied Linguistics 8 (HAL 8), Alexander Mehler and Laurent Romary (Eds), Mouton de Gruyter, Berlin/Boston, p. 461-505.](dsn-cent-decent-distr-federated.svg)
