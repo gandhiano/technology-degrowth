@@ -15,10 +15,7 @@ Stallman, Rushkoff, Cohen und die meisten Freie Software Aktivisten, nebst zahlr
 Das Web ermöglicht es uns in der Tat, in der Überwindung von institutionellen Grenzen und der Zentralisierung des Lernprozesses, die Illich so eklatant kristiert, einen Schritt weiterzukommen. Die Vision eines Netzwerkes, welches seinen NutzerInnen Freiheit und Handlungsmacht bringt - und die gegenwärtig in Gefahr ist - bildet den Kern von Idee und Philosophie des am CERN konzipierten World Wide Webs.
 Genau diese Freiheit des Einzelnen ist es, welche für den Aufbau einer utopischen, autonomen Gesellschaft benötigt wird, die sich Castoriadis in seinem Projekt der individuellen und kollektiven Autonomie vostellt:
 
-"Eine autonome Gesellschaft impliziert autonome Individuen - und umgekehrt impliziert eine autonome Gesellschaft, autonome Individuen:.Freihiet - Aber was ist Freiheit? Und welche Freiheit? Es geht nicht um die innere Freiheit, sondern um die effektive, soziale, konkrete Freiheit, nämlich für den einzelnen sicherstellen kann. Dieses Freiheit existieren nur als Dimension und Art der Einrichtung der Gesellschaft " ein Hauptmerkmal, den größtmöglichen Raum für Bewegung und Aktivität der Institution der Gesellschaft zu erwähnen, (Castoriadis 1993, 317-318 ).
+> "Eine autonome Gesellschaft impliziert autonome Individuen - und umgekehrt. Autonome Gesellschaft, autonome Individuen: freie Gesellschaft. Freie Individuen. Freiheit - Aber was ist Freiheit? Und welche Freiheit? Es geht nicht um die innere Freiheit, sondern um die effektive, soziale, konkrete Freiheit, nämlich, um ein Hauptmerkmal hervorzustellen, den größtmöglichen Raum für Bewegung und Aktivität, den Instituierung von Gesellschaft für das Individuum sicherstellen kann. Diese Freiheit kann nur als Dimension und Art der Einrichtung von Gesellschaftlichkeit existieren."
+(Castoriadis 1993, 317-318, eigene Übersetzung)
 
-Die Bemühungen um eine freie Software und das freie Internet ist auch ein Kampf der Degrowth Bewegung.
-
-"An autonomous society implies autonomous individuals – and vice versa. Autonomous society, autonomous individuals: free society, free individuals. Freedom – But what is freedom? And what freedom? What is at issue is not inner freedom, but effective, social, concrete freedom, namely, to mention one primary feature, the largest possible space for movement and activity the institution of society can ensure for the individual. This freedom can exist only as dimension and mode of the institution of society" (Castoriadis 1993, 317-318).
-
-The struggle for free software and the free web is also a struggle of the degrowth movement
+Die Bemühungen um Freie Software und das freie Internet sind auch ein Kampf der Degrowth Bewegung.
