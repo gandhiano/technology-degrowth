@@ -1,19 +1,81 @@
-5. Vision: place for visioning, suggestions or wishes, e.g. along the questions: From the perspective of your social movement and in relation to degrowth: which opportunities do you see for the development of a strong common emancipatory social movement in the current context (ongoing crises, emergence of right wing parties, post-democracy etc.?) What should a larger social movement look like so you'd join?
+## Degrowth debates can help to critically guide social and technological developments
 
-An alliance between the free software movement and the degrowth movement is not only possible, but a melting pot for the emergence of new visions utopias. 
+The main historical contributions of the free software movement have
+probably been on the production of digital commons: source code, data,
+information, algorithms, knowledge. In addition to it, a whole culture
+of collaboration based on the ideas of freedom and autonomy developed,
+as seen in the previously mentioned global collective efforts such as
+the Wikipedia or the Linux Kernel.
 
-Along this chapter, reference was made to important degrowth sources, in particular with the visions of Illich and Castoriadis. We saw how Illich presents the *learning webs* as a proposal to overcome the *radical monopolies* on education; or how Castoriadis' autonomism materialize in the philosophy and praxis of the *web*. To take the words of the latter, "a free society is a society in which power is actually exercised by the collectivity, but a collectivity in which all effectively participate in equality. And this equality of effective participation, as goal to attain, must not remain a purely formal rule; it must be insured, as much as possible, by actual institutions” (Castoriadis 1993, 317-318 *cit* Papadimitropoulos, 2016).
+The developments and new modes of production and consumption being
+pushed by the so-called “Sharing Economy” also provide interesting
+insights into the degrowth debate. Rather than completely dismissing the
+patterns of exchange of the sharing economy because of their current
+institutional framing, Maurie Cohen (2015) argues that “reciprocal
+relationships, producer-consumer cooperatives could bring the intentions
+of production and consumption into closer alignment”. The challenge
+would be to develop a “more efficacious sharing economy” capable of
+constraining the “expansion of mediated micro-entrepreneurship and
+serialized rental in favour of modes consistent with communitarian
+provisioning”. Cohen calls for *Platform Cooperativism *as an
+alternative institutional setting for enabling these new patterns of
+reciprocal relationships. Research on institutions and democratic
+practices as present in the degrowth movement can give valuable insights
+on how the Sharing Economy could be (re)designed.
 
-The dimensions of democracy and justice have been equally subjected to strong focus and debate among some of the main references of the free software movement: these converge on the importance of not only having access to technology, but also on the capacity to understand and use the technology autonomously. Richard Stallman, speaking at the 2015 Chaos Communication Congress (the largest hackers congress in Europe), synthesizes the concern and awareness of the movement on the radical monopolies forming around digital technology: "teaching children to use proprietary software is like teaching them to smoke".
+This blurring of roles between producers and consumers, enabled by
+technology, is at the core of the praxis of the Sharing Economy, and a
+broad range of social businesses. It leads to the emergence of a new
+type of economical agent, which the futurist Alvin Toffler called
+“prosumers“. Critics have expressed concern that this dynamic may
+contribute to the generation of new forms of capitalist exploitation by
+generating unpaid labour, while keeping power and decision structures
+untouched (Ritzer and Jurgenson, 2010; Rogero, 2010). Bauwens (2005) and
+Benkler and Nissenbaum (2006), argue, however, that production which
+follows the distributed logic of peer-to-peer and commons-based
+peer-production may operate independently of a market logic or existing
+power structures. Also here the degrowth movement could critically
+engage in the debate and contribute to a systemic understanding of these
+emerging pruduction and consumption patterns.
 
-Collective ownership of technical infrastructures and data, interoperability, linked open data (LOD), and the semantic web with its vocabularies and ontologies are some words that are expected to appear more and more in the discourses engaged in building up postgrowth futures. As Silke Helfrich mentioned at the recent international solidarity economy congress (Solikon) in Berlin, "if you control the infrastructures of production, you don't need certification". It is hard to imagine that Ivan Illich would not feel excited about the convivial, deschooling and deinstitutionalization potential of the world wide web and an underlying commons infrastructure.
+Another ongoing debate is on the optimal architecture for the
+infrastructure and services being provided: should we have fully
+distributed (peer-to-peer) or decentralized, federated and autonomously
+controlled networks? Technologies that enable the construction of
+divided networks (such as Blockchain) recently make headlines. A debate
+discussing social and political questions which are arising with such
+new networks are on the other hand largely missing. Approaches for a
+global distributed system will necessarily need a global algorithm,
+which defines criteria for allowed transactions or which creates a basis
+of trust between crypto-anonymised users. But is it possible to reach a
+“global consensus” for an automatized judgement of trust? Who decides
+about the technology to be used? How is privacy assured? How can trust
+between people be built if there is no institution or place where it can
+be attached other than the algorithms placed in machines that take care
+of their transactions?
 
-Making research projects to accumulate even more knowledge on how things work or should work is really not the interesting thing to do today. We rather need more convivial research (Vetter, 2015) in the field, capable of bringing scientists - also non-technical ones - to the collaborative development of platforms, onthologies and vocabularies for data openness and interoperability. Supporting events such as hackathons, or using (and supporting) commons server infrastructure and free software services are examples of actions that support the transformations and resistances happening in the field of technology and the digital commons.
+Supporters of decentralization, such as the federated approach practised
+by the *I*ndieweb**, argue for distributed processes, rather than
+consensus. They rather trust in the creative powers of the people
+involved, rather than in the automation of all transactions. Local or
+thematically bound communities can localise, control and determine such
+processes. On a technical level it than only needs minimal standards of
+cooperation (interoperability) such as with the hyperlink.
 
-Stallman, Rushkoff, Cohen, and most free software activists and hackers would probably not consider themselves as part of the degrowth movement. But we see a pattern emerging, which brings together (some) social businesses, the do-it-yourself culture, the capitalist-critical grassroots, the commons and free software movements. They converge on the will to (re)appropriate and decommercialize technology. They organize and often collaborate in building up Illich's "learning webs".
+These new processes and roles will beyond doubt have a great influence
+on institutional settings – on a social as well as a technological
+level. Debates within the Degrowth movement around democracy, autonomy,
+institutions and technology can help to shape the still to be built
+networks and platforms and the relations between them.
 
-The web in fact enables us to come a step further in overcoming the institutional boundaries and centralization of the learning process, of which Illich is so critical. The vision for a web that provides freedom and agency to its users - and which is currently under threat - is part of the core and philosophy of the world wide web conceived by Tim-Berners Lee at the CERN. And this freedom of individuals is centralpiece to building up the utopian autonomous society that Castoriadis envisions on his Project of Individual and Collective Autonomy:
+The [*TransforMap*](http://transformap.co/) project, an initiative
+involving dozens of networks, NGOs and initiatives worldwide, is
+building a federation of many maps of alternative economies. Within this
+process it combines network and community building and agile management
+practices, with events such as mapping jams, hackathons and vocamps. The
+goal is to develop a technological stack and an associated social
+process that is capable of providing meaning and use for the diverse
+narratives and movements emerging as a response to the limits of growth
+and current multiple crises.
 
-"An autonomous society implies autonomous individuals – and vice versa. Autonomous society, autonomous individuals: free society, free individuals. Freedom – But what is freedom? And what freedom? What is at issue is not inner freedom, but effective, social, concrete freedom, namely, to mention one primary feature, the largest possible space for movement and activity the institution of society can ensure for the individual. This freedom can exist only as dimension and mode of the institution of society" (Castoriadis 1993, 317-318).
-
-The struggle for free software and the free web is also a struggle of the degrowth movement.
+****

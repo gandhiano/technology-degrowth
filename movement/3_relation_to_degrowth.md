@@ -1,22 +1,95 @@
-3. How do you see the relation between this movement and degrowth and how can or should this relation develop within the next years? How is the relation to other social movements? (Relation means e.g. similarities, differences, conflicts, alliances etc.)
+## Questioning technology by commonly owning it
 
-Within the degrowth movement, technology, and especially digital technology, is often taken as something to reduce or remove as much as possible from life and society. On the other hand, we live in the age of digital communication and it is part of the life - even when not directly used - of nearly every citizen in the world.
+Within the degrowth movement, technology, and especially digital
+technology, is often taken as something to be reduced or removed as much
+as possible from life and society. While demanding this, it is dismissed
+the fact that we live in the age of digital communication, where digital
+technology - even when not directly used - is already part of the life
+of nearly every citizen in the world.
 
-In this sense, not engaging and helping to shape the development of the digital infrastructure simply means that someone else will do it for you, with or without consent. Derrida's "paradox of hospitality" points to an interesting aspect here: the first violence a foreigner faces is the obligation to ask for hospitality in the language of the host. This metaphor has been [applied by Claudio Ciborra to technology](http://patterns.wiki.transformap.co/view/welcome-visitors/jon.patterns.wiki.transformap.co/welcome-visitors/jon.patterns.wiki.transformap.co/resources/jon.patterns.wiki.transformap.co/federated-wiki-resources/kate.au.fedwikihappening.net/hospitality-journal/kate.au.fedwikihappening.net/first-violence-to-foreigners/frances.uk.fedwikihappening.net/hospitality-and-hostility-to-technology): if the host is to absorb the technology successfully, he must learn to speak in its language and adopt the culture of the tool where appropriate. In other words, if you don't develop your own technology, you will need to adapt to the language and patterns of the technology someone else developed - maybe in contradiction to your cultural values.
+In this sense, not engaging and helping to shape the development of the
+digital infrastructure simply means that someone else will do it for
+you, with or without consent. Derrida’s “paradox of hospitality” points
+to an interesting aspect here: the first violence a foreigner faces is
+the obligation to ask for hospitality in the language of the host –
+which is in contradiction to the idea of hospitality. This metaphor has
+been applied to technology by [Claudio
+Ciborra](http://patterns.wiki.transformap.co/view/welcome-visitors/jon.patterns.wiki.transformap.co/welcome-visitors/jon.patterns.wiki.transformap.co/resources/jon.patterns.wiki.transformap.co/federated-wiki-resources/kate.au.fedwikihappening.net/hospitality-journal/kate.au.fedwikihappening.net/first-violence-to-foreigners/frances.uk.fedwikihappening.net/hospitality-and-hostility-to-technology):
+if the host is to absorb the technology successfully, he must learn to
+speak in its language and adopt the culture of the tool where
+appropriate. In other words, if you don’t develop your own technology,
+you will need to adapt to the language and patterns of the technology
+someone else developed - maybe in contradiction to your cultural values.
 
-The complexity of the resulting industrial-technological complex is today supported by large institutions and corporations. These progressively distance its users from the technological choices and agency, from the infrastructure that hosts it, the processes of technological production, and of the resource extraction necessary for its maintenance.
+The complexity of the industrial-technological complex is today
+supported by large institutions and corporations. These progressively
+distance their users from the technological choices and agency, from the
+infrastructure that hosts it, the processes of technological production,
+and of the resource extraction necessary for its maintenance. Increasing
+centralization prohibits digital and analogue networks. Media theorist
+Douglas Rushkoff shows that the century we are living in is no longer
+shaped by the mechanical, huge, 19th century factory, but rather by
+brands, titans of the digital world, which establish their monopolies
+with socially networked platforms. These he understands as a spike of a
+late or new capitalism. Massive amounts of venture capitals are injected
+into ideas emerging into the digital society, with the objective of
+capturing as many users and data as possible, and eventually establish a
+monopoly and universality in the service provision: no one should get a
+ride if not on Uber, no one should find friends if not on Facebook, no
+one should find a date if not on Tinder. Still Rushkoff, and along with
+him a few other intellectuals, hackers and activists in the
+collaborative economy, free software and commons movement, sees the
+internet as having a distributive power without precedent in the history
+of Humanity.
 
-Media theorist Douglas Rushkoff has recently written a book describing this new industrial age we are going through. One that is no longer represented by the mechanical, huge, 19th century factory, but rather by brands, titans of the digital world, which establish their monopolies with socially networked platforms. These are presented as a spike of a late or new capitalism times: massive amounts of venture capitals are injected into ideas emerging into the digital society, with the objective of capturing as many users and data as possible, and eventually establish a monopoly and universality in the service provision: no one should get a ride if not on Uber, no one should find friends if not on Facebook, no one should find a date if not on Tinder. Still, the same Rushkoff - and along with him a few other intellectuals, hackers and activists in the collaborative economy, free software movement and commons - sees the internet as having a distributive power without precedents in the history of Humanity.
+Nevertheless, the Internet is being increasingly reduced to the usage of
+a few platforms, which most often act as isolated silos of information.
+This is blocking the core of the decentralized web: the hyperlink. The
+famous Iranian blogger Derakshan writes how he, after spending a few
+years in prison (2008-2015), was confronted with the dominance of the
+social networks and feared how these would make the hyperlink obsolete:
 
-Nevertheless, the Internet is being increasingly reduced to the usage of a few platforms, which most often act as isolated silos of information. With it, they block the core of the decentralized web: the hyperlink. The famous Iranian blogger Derakshan, writes about how after spending a few years in prison (2008-2015), he was confrontated with the dominance of the social networks and feared how these are devaluing and making the hyperlink obsolete: 
+“The hyperlink was my currency six years ago. Stemming from the idea of
+the hypertext, the hyperlink provided a diversity and decentralisation
+that the real world lacked. The hyperlink represented the open,
+interconnected spirit of the world wide web - a vision that started with
+its inventor, Tim Berners-Lee. The hyperlink was a way to abandon
+centralization - all the links, lines and hierarchies - and replace them
+with something more distributed, a system of nodes and networks.”\
+[Derakshan
+](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426#.bmlygr33c)[2015](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426#.bmlygr33c)
 
-> "The hyperlink was my currency six years ago. Stemming from the idea of the hypertext, the hyperlink provided a diversity and decentralisation that the real world lacked. The hyperlink represented the open, interconnected spirit of the world wide web - a vision that started with its inventor, Tim Berners-Lee. The hyperlink was a way to abandon centralization - all the links, lines and hierarchies - and replace them with something more distributed, a system of nodes and networks.
-> [Derakshan, "The web we have to save"](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
+The web with the hyperlink, represents in a way a tool in the digital
+world to build an autonomous society as described by Castoriadis. The
+current threats that the hyperlink faces, are therefore also threats to
+the emergence of degrowth utopias.
 
-The web with the hyperlink, represents in a way the tool in the digital world to build the autonomous society of Castoriadis, and the current threats it faces, are a threat to the emergence of degrowth utopias. It is also amazingly similar in its functioning to Illich concept of the "learning webs" (Illich, 1970). In Deschooling Society, Ivan Illich argues that a good education system should follow three purposes: to provide all that want to learn with access to resources at any time in their lives; to make it possible for all who want to share knowledge to find those who want to learn it from them; and to create opportunities for those who want to present an issue to the public to make their arguments known. 
+Networks of learning
 
-Illich develops an example of what a learning web could be, based on a critique of the funding of TV broadcast in Bolivia, which with a huge sum of public investment managed reach only a very limited spectrum of the population (7000 TV sets after 6 years of program), while concentrating the production and dissemination of content on politicians, bureaucrats and sponsors. As an alternative, he sketches a decentralized scheme of learning: a network of tapes. People would be provided with tape recorders and empty tapes, which "would provide opportunity for free expression: literate and illiterate alike could record, preserve, disseminate, and repeat their opinions". Reference services and other mechanisms for bringing peers in exchange would facilitate access to the resources the student is looking for. How far is this picture from the current tension between the concentrated ownership of social media and the distributive power of the world wide web?
+It is possible to draw parallels to Illich's concept of the “learning
+webs” (Illich, 1970). In Deschooling Society, Ivan Illich argues that a
+good education system should follow three purposes: to provide all that
+want to learn with access to resources at any time in their lives; to
+make it possible for all who want to share knowledge to find those who
+want to learn it from them; and to create opportunities for those who
+want to present an issue to the public to make their arguments known.
+Illich develops an example of a decentralized scheme of learning: a
+network of tapes. People would be provided with tape recorders and empty
+tapes, which “would provide opportunity for free expression: literate
+and illiterate alike could record, preserve, disseminate, and repeat
+their opinions”. Reference services and other mechanisms for bringing
+peers in exchange would facilitate access to the resources the student
+is looking for. Illich's network of tapes as well as the Internet of
+hyperlinks replaces the radical monopole over the hegemonic discourse
+with a multiverse of narratives.
 
-Up to now, research and praxis on degrowth has unfortunately brought too little contribution in building up a coherent, critical vision on different innovations and movements that are emerging on the digital technology scene. On the contrary, there is often a distancing of the actors of degrowth from taking part in the technological and cultural developments of the digital age - as if diving and getting busy with it would would be in contradiction with a meaning of life rooted on voluntary simplicity and harmony with nature.
+Up to now, research and praxis on degrowth has unfortunately brought too
+little contribution in building up a coherent, critical vision on
+different innovations and movements that are emerging on the digital
+technology scene. On the contrary, there is often a distancing of the
+actors of degrowth from taking part in the technological and cultural
+developments of the digital age - as if diving in and getting busy with
+it would be in contradiction with a meaning of life rooted on voluntary
+simplicity and harmony with nature.
 
-It is true that at the resource level, the technology of the digital age have an huge environmental and social toll. Initiatives such as the fairphone or the fair mouse just reveal how difficult it is to actually achieve a fair and ecological production of things as "simple" as a mouse for the computer. But how far are concepts such as the (fully) automated production, smart cities, cryptocurrencies, the internet of things or big data from forming part of degrowth utopias? What do we need to do, how do we need to shape them, so that they contribute towards a radical distribution, rather than to the furthering of capitalism accummulation and increase of societal dependency on services provided by corporations? How can actors and institutions related to degrowth (not) achieved in terms of getting control over the technology they use? 
+****
